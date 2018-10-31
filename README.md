@@ -1,8 +1,6 @@
 laravel-whmcs
 ======
 
-**NOTE:** This package is no longer in active development. Feel free to fork and extend it as needed.
-
 A simple Laravel interface for interacting with the WHMCS API.
 
 
